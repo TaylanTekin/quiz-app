@@ -1,5 +1,1 @@
 
---- New Session ---
-What is the tallest mountain in the world? | mount everest | Your answer: mt everest
-What does CPU stand for? | central processing unit | Your answer: centeral processor unit
-What country is known as the Land of the Rising Sun? | japan | Your answer: china
