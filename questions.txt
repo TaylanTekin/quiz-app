@@ -1,0 +1,10 @@
+What is the capital of France?|paris|geography
+What does CPU stand for?|central processing unit|technology
+What is 2 + 2?|4|math
+What is the largest planet in our solar system?|jupiter|astronomy
+What is the tallest mountain in the world?|mount everest|geography
+What is the largest country by area?|russia|geography
+What does SWE stand for?|software engineer|technology
+What country is known as the Land of the Rising Sun?|japan|geography
+What is the chemical symbol for water?|h2o|chemistry
+What is the main ingredient in guacamole?|avocado|food
